@@ -74,7 +74,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/man-electrical-technician-working-switchboard-with-fuses_169016-51642.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/man-electrical-technician-working-switchboard-with-fuses_169016-51642.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -159,7 +159,7 @@ export default function LandingPage() {
           description: "Safe, compliant upgrades for your home.",
           bentoComponent: "reveal-icon",
           icon: Shield,
-          imageSrc: "http://img.b2bpic.net/free-photo/man-electrical-technician-working-switchboard-with-fuses_169016-51642.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-electrical-technician-working-switchboard-with-fuses_169016-51642.jpg?_wi=2",
           imageAlt: "friendly local electrician portrait",
         },
         {
@@ -167,7 +167,7 @@ export default function LandingPage() {
           description: "Modern upgrades and fixture installations.",
           bentoComponent: "reveal-icon",
           icon: Lightbulb,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-brunette-woman-sitting-with-coffee-using-smartphone-cafe-chatting_1258-199048.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-brunette-woman-sitting-with-coffee-using-smartphone-cafe-chatting_1258-199048.jpg?_wi=1",
           imageAlt: "friendly local electrician portrait",
         },
         {
@@ -175,7 +175,7 @@ export default function LandingPage() {
           description: "Advanced smoke alarms and cabling.",
           bentoComponent: "reveal-icon",
           icon: Wifi,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-girl-shows-okay-ok-signs-look-satisfied-recommend-good-company-perfect-quality-praise-good-job-well-done-standing-pleased-against-white-background_176420-54380.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-girl-shows-okay-ok-signs-look-satisfied-recommend-good-company-perfect-quality-praise-good-job-well-done-standing-pleased-against-white-background_176420-54380.jpg?_wi=1",
           imageAlt: "friendly local electrician portrait",
         },
       ]}
@@ -225,14 +225,14 @@ export default function LandingPage() {
           name: "Sarah Miller",
           handle: "@sarah-m",
           testimonial: "Nick was very professional, punctual and very reasonably priced. Highly recommended.",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-brunette-woman-sitting-with-coffee-using-smartphone-cafe-chatting_1258-199048.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-brunette-woman-sitting-with-coffee-using-smartphone-cafe-chatting_1258-199048.jpg?_wi=2",
         },
         {
           id: "t2",
           name: "James Bond",
           handle: "@james-b",
           testimonial: "Excellent quality service. Very clean and tidy work, corrected wiring issues I didn't know existed.",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-girl-shows-okay-ok-signs-look-satisfied-recommend-good-company-perfect-quality-praise-good-job-well-done-standing-pleased-against-white-background_176420-54380.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-girl-shows-okay-ok-signs-look-satisfied-recommend-good-company-perfect-quality-praise-good-job-well-done-standing-pleased-against-white-background_176420-54380.jpg?_wi=2",
         },
         {
           id: "t3",
